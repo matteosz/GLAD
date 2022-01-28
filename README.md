@@ -1,7 +1,7 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![GPL License][license-shield]][https://opensource.org/licenses/GPL-3.0]
+![Contributors]
+![GPL License]
 
 <br />
 <div align="center">
@@ -11,7 +11,6 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
