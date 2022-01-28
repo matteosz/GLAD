@@ -1,8 +1,5 @@
 <div id="top"></div>
 
-![Contributors]
-![GPL License]
-
 <br />
 <div align="center">
 <h3 align="center">GLAD: Gossip Learning Averaging Distance</h3>
